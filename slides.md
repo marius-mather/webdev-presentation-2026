@@ -37,6 +37,10 @@ Or: do I have to learn React?
 transition: fade-out
 ---
 
+See the web version of these slides at: <https://marius-mather.github.io/webdev-presentation-2026/> - some interactive HTML embedded.
+
+---
+
 # Isn't it all just HTML?
 
 ## Yes!
