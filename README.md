@@ -1,4 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Modern Web Development
+
+Created with [slidev](https://sli.dev/)
 
 To start the slide show:
 
